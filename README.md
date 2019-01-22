@@ -1,4 +1,4 @@
-#ReyTampan
+#Tugas1
 1. step one is login with mhs account (lupa screenshot)
 2. step two, is login in github.com with your account (lupa screenshot)
 3. step three, is start a project in github home page
